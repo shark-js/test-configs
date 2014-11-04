@@ -1,2 +1,2 @@
-test-tools
+test-configs
 ==========
